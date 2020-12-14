@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="separatorBackground">#4e4e4e</color>
+    <color name="separatorText">#FF018786</color>
+    <color name="ic_color">#FFFFFF</color>
+</resources>
